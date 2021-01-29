@@ -31,7 +31,9 @@ A user story is a way to capture requirements for an app from an end-user perspe
 <img src="https://imgur.com/V90ymKh.gif" width=750><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+* keeping track of multiple files and trying to make sense of multiple class hierarchy was challanging but i got the hang of it towards the end.
+* Learning new/multiple keywords was challenging
+* Spent too long designing the view
 
 ### Open-source libraries used
 
