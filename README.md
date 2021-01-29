@@ -28,7 +28,7 @@ A user story is a way to capture requirements for an app from an end-user perspe
 <img src="https://imgur.com/y2dxJPi.gif" width=250><br>
 
 #### Demo for Landscape
-<img src="https://imgur.com/V90ymKh.gif" width=250><br>
+<img src="https://imgur.com/V90ymKh.gif" width=750><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
