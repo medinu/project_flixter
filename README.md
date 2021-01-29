@@ -25,10 +25,10 @@ A user story is a way to capture requirements for an app from an end-user perspe
 ### App Walkthough GIF
 
 #### Demo for Portrait
-<img src="https://imgur.com/y2dxJPi" width=250><br>
+<img src="https://imgur.com/y2dxJPi.gif" width=250><br>
 
 #### Demo for Landscape
-<img src="https://imgur.com/V90ymKh" width=250><br>
+<img src="https://imgur.com/V90ymKh.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
